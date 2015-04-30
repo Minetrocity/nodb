@@ -1,5 +1,5 @@
 {
-  "name": "minetrocity.nodb",
+  "name": "minetrocity-nodb",
   "version": "1.0.0",
   "description": "A local, document database",
   "main": "index.js",
