@@ -33,5 +33,7 @@ var db = nodb(config);
 // });
 
 db.writeData('test3', 'key', 'value').then(function () {
-  setTimeout(function () {}, 1000);
+  setTimeout(function () {
+    db.writeData('test3', 'key2', 'value');
+  }, 1000);
 });
