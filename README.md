@@ -1,3 +1,5 @@
+![Travis Status](https://travis-ci.org/Minetrocity/nodb.svg?branch=master)
+
 # nodb
 A localized document-based database
 
